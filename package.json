@@ -35,7 +35,8 @@
     "test": "eslint ."
   },
   "devDependencies": {
-    "eslint": "^9.17.0"
+    "eslint": "^9.17.0",
+    "react": "^19.1.1"
   },
   "peerDependencies": {
     "eslint": "^9.0.0"
